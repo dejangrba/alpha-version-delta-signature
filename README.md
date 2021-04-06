@@ -10,6 +10,12 @@ In this paper I explore the cognitive aspects of artefactual creativity in new m
 
 __Keywords:__ Artefactual Creativity, Artificial Intelligence, Combinatorial Inventiveness, Generative Art, New Media Art.
 
+### Publication
+Journal of Science and Technology of the Arts, 12 (3), Porto, 2020: 63-83.
+
+### Full Text
+[PDF](https://revistas.ucp.pt/index.php/jsta/article/view/9491/9440)
+
 ### References
 
 Bishop, Chris. 2017. &quot;Artificial Intelligence, the History and Future.&quot; The Royal Institution YouTube podcast. [https://youtu.be/8FHBh\_OmdsM.](https://youtu.be/8FHBh\_OmdsM)
